@@ -1,2 +1,2 @@
 # Discord-T0k3n-Grabber
-"MTUzMDI4NzI5MDgxNzk3NDI3Mg.GO9DCR.VsOL00qanGx3RY4Jh9aTnlhRiAjDuc22ABVkTY"
+Generate silent Discord token grabbers with license system
