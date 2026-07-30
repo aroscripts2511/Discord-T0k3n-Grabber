@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build files
+build/
+dist/
+*.spec
+
+# License files (don't share your keys!)
+licenses.json
+auth_cache.json
+settings.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
